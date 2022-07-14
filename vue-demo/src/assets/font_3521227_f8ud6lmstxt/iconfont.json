@@ -1,0 +1,23 @@
+{
+  "id": "3521227",
+  "name": "面试",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "932632",
+      "name": "添加",
+      "font_class": "tianjia",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "28415499",
+      "name": "移动",
+      "font_class": "yidong",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    }
+  ]
+}

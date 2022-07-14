@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3521227 */
+  src: url('iconfont.woff2?t=1657767249043') format('woff2'),
+       url('iconfont.woff?t=1657767249043') format('woff'),
+       url('iconfont.ttf?t=1657767249043') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tianjia:before {
+  content: "\e68f";
+}
+
+.icon-yidong:before {
+  content: "\e667";
+}
+
